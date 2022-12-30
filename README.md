@@ -8,6 +8,9 @@ This template is designed for people who don’t want to rely on any other front
 
 We are constantly updating our package and adding new component time by time.
 
+> Get Full Version from Here
+> https://codecanyon.net/item/flutter-admin-portal/42273274
+
 [![N|Solid](https://raw.githubusercontent.com/Sarvadhi-Solutions/flutter-admin-panel/main/Flutter_Admin_Kit_2%20(1).png)](https://codecanyon.net/item/flutter-admin-portal/42273274)
 
 ##### Why choose Flutter Admin Dashboard?
