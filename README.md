@@ -38,7 +38,7 @@ We are constantly updating our package and adding new component time by time.
 Our team of experts developers and designers at [Sarvadhi] are specifically skilled to provide clients innovative services to overcome any digital hurdles. With such services on hand, enterprises can achieve a short time in operation, enhanced efficiency, and smooth workflow. The customized solutions from our Sarvadhi web development company acts as leverage for the organizations.
 &nbsp; 
 **What We Offer**
-Catering to the requests and requirements of our clients, we offer a line of services that elevate us to being a recognized [website design and development company in India].
+Catering to the requests and requirements of our clients, we offer a line of services that elevate us to being a recognized website design and development company in India.
 &nbsp; 
 **Feel Free to Contact Us**
 Website: https://sarvadhi.com/
